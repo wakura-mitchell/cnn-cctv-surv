@@ -1,0 +1,11 @@
+Smart City surveillance system utilizes two datasets ResNet50 and self prepared dataset using google images and making frames out of videos.
+
+Requirement
+Anaconda
+Arduino ESP32 Cam
+
+How to run
+open anaconda terminal inside the project file then execute the following code:
+	python main.py
+if cameras are connected well you will get feed 
+but if they are not you will get a prompt to enter a video 

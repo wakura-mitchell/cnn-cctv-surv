@@ -1,0 +1,9 @@
+twilio
+opencv-python
+keras
+pyqt5
+numpy
+customtkinter
+tensorflow
+imutils
+
